@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Рабочий стол\homework\dz3task1\bin\Debug\net6.0\dz3task1.exe
+C:\Users\User\OneDrive\Рабочий стол\homework\dz3task1\bin\Debug\net6.0\dz3task1.deps.json
+C:\Users\User\OneDrive\Рабочий стол\homework\dz3task1\bin\Debug\net6.0\dz3task1.runtimeconfig.json
+C:\Users\User\OneDrive\Рабочий стол\homework\dz3task1\bin\Debug\net6.0\dz3task1.dll
+C:\Users\User\OneDrive\Рабочий стол\homework\dz3task1\bin\Debug\net6.0\dz3task1.pdb
+C:\Users\User\OneDrive\Рабочий стол\homework\dz3task1\obj\Debug\net6.0\dz3task1.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Рабочий стол\homework\dz3task1\obj\Debug\net6.0\dz3task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Рабочий стол\homework\dz3task1\obj\Debug\net6.0\dz3task1.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\homework\dz3task1\obj\Debug\net6.0\dz3task1.AssemblyInfo.cs
+C:\Users\User\OneDrive\Рабочий стол\homework\dz3task1\obj\Debug\net6.0\dz3task1.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\homework\dz3task1\obj\Debug\net6.0\dz3task1.dll
+C:\Users\User\OneDrive\Рабочий стол\homework\dz3task1\obj\Debug\net6.0\refint\dz3task1.dll
+C:\Users\User\OneDrive\Рабочий стол\homework\dz3task1\obj\Debug\net6.0\dz3task1.pdb
+C:\Users\User\OneDrive\Рабочий стол\homework\dz3task1\obj\Debug\net6.0\dz3task1.genruntimeconfig.cache
+C:\Users\User\OneDrive\Рабочий стол\homework\dz3task1\obj\Debug\net6.0\ref\dz3task1.dll
