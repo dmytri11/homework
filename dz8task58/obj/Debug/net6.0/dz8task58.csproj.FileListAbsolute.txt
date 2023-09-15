@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Рабочий стол\homework\dz8task58\bin\Debug\net6.0\dz8task58.exe
+C:\Users\User\OneDrive\Рабочий стол\homework\dz8task58\bin\Debug\net6.0\dz8task58.deps.json
+C:\Users\User\OneDrive\Рабочий стол\homework\dz8task58\bin\Debug\net6.0\dz8task58.runtimeconfig.json
+C:\Users\User\OneDrive\Рабочий стол\homework\dz8task58\bin\Debug\net6.0\dz8task58.dll
+C:\Users\User\OneDrive\Рабочий стол\homework\dz8task58\bin\Debug\net6.0\dz8task58.pdb
+C:\Users\User\OneDrive\Рабочий стол\homework\dz8task58\obj\Debug\net6.0\dz8task58.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Рабочий стол\homework\dz8task58\obj\Debug\net6.0\dz8task58.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Рабочий стол\homework\dz8task58\obj\Debug\net6.0\dz8task58.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\homework\dz8task58\obj\Debug\net6.0\dz8task58.AssemblyInfo.cs
+C:\Users\User\OneDrive\Рабочий стол\homework\dz8task58\obj\Debug\net6.0\dz8task58.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\homework\dz8task58\obj\Debug\net6.0\dz8task58.dll
+C:\Users\User\OneDrive\Рабочий стол\homework\dz8task58\obj\Debug\net6.0\refint\dz8task58.dll
+C:\Users\User\OneDrive\Рабочий стол\homework\dz8task58\obj\Debug\net6.0\dz8task58.pdb
+C:\Users\User\OneDrive\Рабочий стол\homework\dz8task58\obj\Debug\net6.0\dz8task58.genruntimeconfig.cache
+C:\Users\User\OneDrive\Рабочий стол\homework\dz8task58\obj\Debug\net6.0\ref\dz8task58.dll
